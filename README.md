@@ -30,14 +30,14 @@ The models achieved the following results:
 
 These results demonstrate the effectiveness of the models in predicting Autism Spectrum Disorder (ASD) with varying degrees of accuracy.
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
-##License
+## License
 This project is open-sourced under the MIT License.
 
-##Contact Information
+## Contact Information
 For any queries or discussions regarding this project, please contact me at shahdeep1406@gmail.com .
 
-##A Word Document Explaining The Process
+## A Word Document Explaining The Process
 [23MSIT059_Case_Study_Description.docx](https://github.com/user-attachments/files/16101872/23MSIT059_Case_Study_Description.docx)
