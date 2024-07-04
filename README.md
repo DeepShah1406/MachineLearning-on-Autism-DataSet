@@ -33,6 +33,9 @@ These results demonstrate the effectiveness of the models in predicting Autism S
 ##Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
+##License
+This project is open-sourced under the MIT License.
+
 ##Contact Information
 For any queries or discussions regarding this project, please contact me at shahdeep1406@gmail.com .
 
