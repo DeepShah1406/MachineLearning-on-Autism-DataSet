@@ -40,4 +40,4 @@ This project is open-sourced under the MIT License.
 For any queries or discussions regarding this project, please contact me at shahdeep1406@gmail.com .
 
 ## A Word Document Explaining The Process
-[23MSIT059_Case_Study_Description.docx](https://github.com/user-attachments/files/16101872/23MSIT059_Case_Study_Description.docx)
+[Case_Study_Description.docx](https://github.com/user-attachments/files/16101872/23MSIT059_Case_Study_Description.docx)
