@@ -1,19 +1,20 @@
-# autism-ml-case-study
+# ***Autism-ML-Case-Study***
+
 Autism ML Case Study: Exploring ASD prediction using Python and machine learning. Data preprocessing, model evaluation, and insights.
 
-# Autism Spectrum Disorder Prediction using Machine Learning
+## Autism Spectrum Disorder Prediction using Machine Learning
 
-## Project Overview
+### Project Overview
 This project utilizes machine learning algorithms to predict Autism Spectrum Disorder (ASD) based on a dataset containing various features. The goal is to provide an accurate and reliable prediction model that can assist in the early detection and intervention for individuals with ASD.
 
-## Features
+### Features
 - Data preprocessing and cleaning to prepare the dataset for analysis.
 - Exploratory Data Analysis (EDA) to understand the data distribution and patterns.
 - Feature engineering to enhance model performance.
 - Model training and evaluation using Logistic Regression, XGBoost, and Support Vector Machine (SVM).
 - Performance metrics analysis with ROC-AUC scores and confusion matrix visualization.
 
-## Technologies Used
+### Technologies Used
 - Python
 - Pandas for data manipulation
 - NumPy for numerical operations
