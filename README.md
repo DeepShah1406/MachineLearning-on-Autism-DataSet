@@ -1,4 +1,4 @@
-# ***Autism-ML-Case-Study***
+# ***Machine Learning on Autism Data Set***
 
 Autism ML Case Study: Exploring ASD prediction using Python and machine learning. Data preprocessing, model evaluation, and insights.
 
